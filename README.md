@@ -11,14 +11,14 @@
 ## ⚡ Sobre mim
 
 ```julia
-struct Engenheiro
+struct Engenheiro_Eletricista
     nome::String
     universidade::String
     foco::Vector{String}
     grupo_pesquisa::String
 end
 
-douglas = Engenheiro(
+douglas = Engenheiro_Eletricista(
     "Douglas Barros",
     "Universidade Federal do Ceará (UFC)",
     ["Sistemas Elétricos de Potência", "Smart Grids", "Co-simulação"],
@@ -26,9 +26,9 @@ douglas = Engenheiro(
 )
 ```
 
-- 🎓 Graduando em **Engenharia Elétrica (UFC)** — 10º Semestre
+- 🎓 Graduando em **Engenharia Elétrica (UFC)**
 - 🔬 Bolsista **PIBIC** no **GREI – Grupo de Redes Inteligentes**
-- ⚡ Pesquiso **Sistemas Elétricos de Potência**, **redes inteligentes** e **co-simulação de sistemas multiagente**
+- ⚡ Pesquiso **Sistemas Elétricos de Potência**, **Redes Inteligentes** e **Co-simulação de Sistemas Multiagente**
 - 🧮 Modelo redes com **OpenDSS** (`py_dss_interface`), agentes com **PADE** e co-simulação com **Mosaik** e **OMNeT++**
 - 📍 Fortaleza/CE — Brasil
 
@@ -66,15 +66,6 @@ douglas = Engenheiro(
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=douglas-fdbs&hide_border=true&background=103621&stroke=2A5F43&ring=6FCF97&fire=6FCF97&currStreakNum=F4FFEB&sideNums=F4FFEB&currStreakLabel=6FCF97&sideLabels=A7D8B6&dates=A7D8B6" alt="streak" />
-
-</div>
-
-<!-- ====================== TROFÉUS ====================== -->
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=douglas-fdbs&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
