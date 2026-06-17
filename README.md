@@ -59,13 +59,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-fdbs&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=103621&title_color=6FCF97&text_color=F4FFEB&icon_color=A7D8B6" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-fdbs&layout=compact&hide_border=true&langs_count=8&bg_color=103621&title_color=6FCF97&text_color=F4FFEB" alt="top langs" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=douglas-fdbs&hide_border=true&background=103621&stroke=2A5F43&ring=6FCF97&fire=6FCF97&currStreakNum=F4FFEB&sideNums=F4FFEB&currStreakLabel=6FCF97&sideLabels=A7D8B6&dates=A7D8B6" alt="streak" />
 
 </div>
