@@ -21,8 +21,8 @@
 ## 👤 Informações Pessoais
 
 - 🎓 Graduando em **Engenharia Elétrica (UFC)**
-- 🔬 Bolsista **PIBIC** no **GREI – Grupo de Redes Inteligentes**
-- ⚡ Pesquiso **Sistemas Elétricos de Potência**, **Redes Elétricas Inteligentes** e **Co-simulação de Sistemas Multiagente**
+- 🔬 Bolsista **PIBIC** no **GREI – Grupo de Redes Elétricas Inteligentes**
+- ⚡ Pesquiso **Sistemas Elétricos de Potência**, **Redes Inteligentes** e **Co-simulação de Sistemas Multiagente**
 - 🧮 Modelo redes com **OpenDSS** (`py_dss_interface`), agentes com **PADE** e co-simulação com **Mosaik** e **OMNeT++**
 - 📍 Fortaleza/CE — Brasil
 
