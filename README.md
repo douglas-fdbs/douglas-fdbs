@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/douglas-fdbs">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=600&size=22&pause=1000&color=4E9E6F&center=true&vCenter=true&width=720&height=45&lines=Sistemas+El%C3%A9tricos+de+Pot%C3%AAncia;Smart+Grids+e+Redes+Inteligentes;Co-simula%C3%A7%C3%A3o+de+Sistemas+Multiagente" alt="foco" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=600&size=22&pause=1000&color=4E9E6F&center=true&vCenter=true&width=720&height=45&lines=Sistemas+El%C3%A9tricos+de+Pot%C3%AAncia;Smart+Grids+/+Redes+Inteligentes;Co-simula%C3%A7%C3%A3o+de+Sistemas+Multiagente" alt="foco" />
 </a>
 
 <br/>
